@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there  soy Cintia Moll! ✨👍😁
+Actualmente me encuentro trabajando en mi proyecto integrador para el curso de Full Stack de Digital House
 <!--
 **CintiaMoll34/cintiamoll34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😁👍👍👍😍
